@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cedricstor/MC64_Project.git/static/css/main.e6c13ad2.css",
+    "main.js": "/cedricstor/MC64_Project.git/static/js/main.a376e0f5.js",
+    "static/js/453.1493f418.chunk.js": "/cedricstor/MC64_Project.git/static/js/453.1493f418.chunk.js",
+    "index.html": "/cedricstor/MC64_Project.git/index.html",
+    "main.e6c13ad2.css.map": "/cedricstor/MC64_Project.git/static/css/main.e6c13ad2.css.map",
+    "main.a376e0f5.js.map": "/cedricstor/MC64_Project.git/static/js/main.a376e0f5.js.map",
+    "453.1493f418.chunk.js.map": "/cedricstor/MC64_Project.git/static/js/453.1493f418.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a376e0f5.js"
+  ]
+}
