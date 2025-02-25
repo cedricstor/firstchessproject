@@ -1,6 +1,6 @@
 {
-  "homepage": "https://cedricstor.github.io/MC64_Project/",
-  "name": "myfirstchessapp",
+  "homepage": "https://cedricstor/mc64.github.io.git",
+  "name": "mc64.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
